@@ -1,0 +1,5 @@
+../Core/Src/udpserver.c:48:6:udpServer_init	16	static
+../Core/Src/udpserver.c:78:6:udp_receive_callback	32	static
+../Core/Src/udpserver.c:111:6:process_received_data	32	static
+../Core/Src/udpserver.c:139:6:udpserver_send	32	static
+../Core/Src/udpserver.c:160:6:udp_serial_data	32	static
